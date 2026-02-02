@@ -1,3 +1,3 @@
 # MDPM: Materialien zu "Diskrete Mathematik mit Python".
 
-wird immer wieder ergänzt und verbessert.
+Begonnen 2026-02-02: Inhalte werden in den nächsten Wochen ergänzt.
