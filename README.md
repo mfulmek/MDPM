@@ -1,3 +1,12 @@
 # MDPM: "Mathematik, diskret mit Python: Materialien".
 
-Begonnen 2026-02-02: Inhalte werden in den nächsten Wochen ergänzt.
+_2026-02-04_
+
+Materialien zum Ebook [Diskrete Mathematik mit Python](https://www.amazon.de/dp/B0GL2NW81S).
+
+Derzeit hier enthalten:
+
+* README.md (diese Datei)
+* DMTI.ipynb (Jupyter-Notebook mit den Python-Schnipseln aus dem Ebook)
+
+(Weitere Inhalte werden in den nächsten Wochen ergänzt.)
