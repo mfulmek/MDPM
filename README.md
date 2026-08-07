@@ -8,5 +8,3 @@ Derzeit hier enthalten:
 
 * README.md (diese Datei)
 * DMTI.ipynb (Jupyter-Notebook mit den Python-Schnipseln aus dem Ebook)
-
-(Weitere Inhalte werden in den nächsten Wochen ergänzt.)
